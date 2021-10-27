@@ -1,0 +1,40 @@
+#icon{
+    width: 30px;
+    height: 30px;
+}
+#iconTitle{
+    display: inline;
+    align-items: center;
+    margin-top: 15px;
+    padding: auto;
+}
+#btn-fem{
+    background-color: pink;
+    border-color: plum;
+    color: black;
+    size: 20px;
+}
+#btn-mas{
+    background-color:green;
+    border-color:greenyellow;
+    color: black;
+    size: 20px;
+}
+.card-body-2{
+    padding: auto;
+    align-items:baseline;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+label{
+    padding-right: 10px;
+}
+.card-footer{
+    width: 100%;
+}
+.card-header{
+    width: 100%;
+}
